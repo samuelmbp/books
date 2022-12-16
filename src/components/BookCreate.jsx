@@ -24,7 +24,7 @@ function BookCreate({ onCreate }) {
 					value={title} 
 					onChange={handleChange}
 				/>
-				<button className='button'>Add Book</button>
+				<button className='button'>Create Book</button>
 			</form>
 		</div>
 	) 
