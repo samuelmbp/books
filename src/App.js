@@ -20,9 +20,8 @@ const App = () => {
 	};
 
 	return (
-		<div>
-			<BookList />
-			{books.length}
+		<div className='app'>
+			<BookList books={books}/>
 			<BookCreate onCreate={createBook} />
 		</div>
 	);
