@@ -1,3 +1,16 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "Safe Haven",
+      "id": 2
+    },
+    {
+      "title": "Murder On The Nil",
+      "id": 3
+    },
+    {
+      "title": "Murder On The Orient Express",
+      "id": 4
+    }
+  ]
 }
